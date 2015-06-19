@@ -1,3 +1,15 @@
+# AVR Studio 4
+*.aps
+*.aws
+*.map
+*.obj
+*.hex
+labels.tmp
+AvrBuild.bat
+
+# Other
+download.bat
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
