@@ -1,6 +1,8 @@
 # cs2121
 
-Microprocessors and Interfacing. Semester 1, 2015. [Course website](http://www.cse.unsw.edu.au/~cs2121/).
+> Microprocessors and Interfacing. Semester 1, 2015.
+
+[Course website](http://www.cse.unsw.edu.au/~cs2121/).
 
 ### Tips
 + You can include functions and constants from a separate file using ``.include "myfile.asm"``. For an example, see the project. Use this to separate your functions in the labs from the code that uses those functions - this will allow you to reuse the functions more easily later on.
