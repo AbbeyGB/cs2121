@@ -1,6 +1,8 @@
 # cs2121
 
-> Microprocessors and Interfacing. Semester 1, 2015.
+> Microprocessors and Interfacing
+
+> Semester 1, 2015
 
 [Course website](http://www.cse.unsw.edu.au/~cs2121/).
 
@@ -39,4 +41,5 @@
 **Microwave emulator.** Includes a user manual and design manual.
 
 ### Assignment
-**Comparing the Instruction Set Architectures of AVR and ARM.** Points of Comparison: Memory Models, Registers, Instruction Set, Data Types.
+
+**Comparing the Instruction Set Architectures of AVR and ARM.** Memory Models, Registers, Instruction Set, Data Types.
