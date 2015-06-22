@@ -1,8 +1,6 @@
 # cs2121
 
-*Microprocessors and Interfacing*
-
-*Semester 1, 2015*
+*Microprocessors and Interfacing – Semester 1, 2015*
 
 [Course website](http://www.cse.unsw.edu.au/~cs2121/).
 
